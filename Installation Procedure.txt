@@ -1,0 +1,4 @@
+=> Install Netbeans
+=> Install Spring Java utility
+=> Create Project
+=> Replace demo folder with my provided demo folder
